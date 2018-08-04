@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes.
 my stupid boss
 creating a new branch is quick.
+join in gitee.
